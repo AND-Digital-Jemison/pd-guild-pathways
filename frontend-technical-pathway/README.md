@@ -39,7 +39,7 @@ Using Semantic HTML helps to make your website more accessible, but also benefit
 
 [A11y Casts: "Why do semantics matter?" - YouTube](https://www.youtube.com/watch?v=g2tzEil5TL0&ab_channel=GoogleChromeDevelopers)
 
-[Deque Systems: "Why Semantic HTML is important for accessibility](https://www.youtube.com/watch?v=1JRDOR73ahs&t=412s&ab_channel=DequeSystems)
+[Deque Systems: "Why Semantic HTML is important for accessibility" - YouTube](https://www.youtube.com/watch?v=1JRDOR73ahs&t=412s&ab_channel=DequeSystems)
 
 
 ---
