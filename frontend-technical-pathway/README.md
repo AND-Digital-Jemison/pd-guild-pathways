@@ -27,11 +27,15 @@ Computers don't have eyes 👀 - if you've built a webpage using random tags sty
 For example, if instead of using a `<h1>` tag to indicate a main heading, you instead style a `<p>` tag to be 32px, 
 and then use CSS to make it bright red so that it stands out - for a User using a screenreader, this is just a `<p>` tag. It has no other importance.
 
+Using Semantic HTML helps to make your website more accessible, but also benefits your site's SEO. 
+
 ### Useful resources
 
-[Mozilla covers Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+[Mozilla: Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
-[W3schools HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+[W3schools: HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+[Medium: Semantic HTML & SEO](https://medium.com/geekculture/5-ways-to-write-semantic-html-and-improve-webpage-seo-and-accessibility-626329130d95)
 
 [A11y Casts: "Why do semantics matter?" - YouTube](https://www.youtube.com/watch?v=g2tzEil5TL0&ab_channel=GoogleChromeDevelopers)
 
