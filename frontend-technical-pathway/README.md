@@ -44,9 +44,33 @@ Using Semantic HTML helps to make your website more accessible, but also benefit
 
 ---
 
-## CSS 
+## CSS
 
 ### CSS-in-JS
+
+CSS-in-JS means writing your CSS directly in your component files.
+
+CSS-in-JS is a topic that splits the field - try the libraries linked below and decide which side of the fence you sit on.
+
+### CSS-in-JS Libraries
+
+[styled-components](https://styled-components.com/)
+
+[goober](https://goober.js.org/)
+
+[emotion](https://emotion.sh/docs/introduction)
+
+### Useful resources
+
+[CSS-in-JS Playground](https://www.cssinjsplayground.com/)
+
+[Github: CSS-in-TS analysis](https://github.com/andreipfeiffer/css-in-js/blob/main/README.md#overview)
+
+[Sparkbox: A Lukewarm Approval of CSS-in-JS](https://sparkbox.com/foundry/css_in_js_overview_css_in_js_pros_and_cons)
+
+[LevelUpTuts: "What is CSS in JS? What is Styled Components?" - YouTube](https://www.youtube.com/watch?v=EsSi4cER48E&ab_channel=LevelUpTuts)
+
+[Coding Tech: "The Past, Present and Future of CSS-in-JS": YouTube](https://www.youtube.com/watch?v=a31BUlx-EXc&ab_channel=CodingTech)
 
 ### CSS Preprocessors
 
