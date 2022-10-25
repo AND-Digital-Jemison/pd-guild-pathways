@@ -50,6 +50,8 @@ Using Semantic HTML helps to make your website more accessible, but also benefit
 
 CSS-in-JS means writing your CSS directly in your component files.
 
+The benefit to using this way of styling is largely related to scope, you no longer have to worry about naming conventions or overriding some obscure global style based on your variable name. Troubleshooting styling bugs is a lot easier - you know exactly where to look; also code maintainability - instead of keeping some legacy styles based on the fact that they've "always been there", if your component changes (or gets discarded), those styles go with them. 
+
 CSS-in-JS is a topic that splits the field - try the libraries linked below and decide which side of the fence you sit on.
 
 ### CSS-in-JS Libraries
@@ -70,7 +72,7 @@ CSS-in-JS is a topic that splits the field - try the libraries linked below and 
 
 [LevelUpTuts: "What is CSS in JS? What is Styled Components?" - YouTube](https://www.youtube.com/watch?v=EsSi4cER48E&ab_channel=LevelUpTuts)
 
-[Coding Tech: "The Past, Present and Future of CSS-in-JS": YouTube](https://www.youtube.com/watch?v=a31BUlx-EXc&ab_channel=CodingTech)
+[Coding Tech: "The Past, Present and Future of CSS-in-JS" - YouTube](https://www.youtube.com/watch?v=a31BUlx-EXc&ab_channel=CodingTech)
 
 ### CSS Preprocessors
 
