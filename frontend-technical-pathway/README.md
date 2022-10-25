@@ -62,6 +62,10 @@ CSS-in-JS is a topic that splits the field - try the libraries linked below and 
 
 [emotion](https://emotion.sh/docs/introduction)
 
+[jss](https://cssinjs.org/?v=v10.9.2)
+
+[styled-jsx](https://github.com/vercel/styled-jsx)
+
 ### Useful resources
 
 [CSS-in-JS Playground](https://www.cssinjsplayground.com/)
@@ -73,6 +77,8 @@ CSS-in-JS is a topic that splits the field - try the libraries linked below and 
 [LevelUpTuts: "What is CSS in JS? What is Styled Components?" - YouTube](https://www.youtube.com/watch?v=EsSi4cER48E&ab_channel=LevelUpTuts)
 
 [Coding Tech: "The Past, Present and Future of CSS-in-JS" - YouTube](https://www.youtube.com/watch?v=a31BUlx-EXc&ab_channel=CodingTech)
+
+[CSS Tricks: A Thorough Analysis of CSS-in-JS](https://css-tricks.com/a-thorough-analysis-of-css-in-js/)
 
 ### CSS Preprocessors
 
